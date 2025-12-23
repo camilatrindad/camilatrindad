@@ -1,5 +1,5 @@
 
-# Hi there!  I'm Camila 
+# Hi there!  I'm Camila
 
 🎓 Computer Networks student at **IFRN (Federal Institute of Rio Grande do Norte)**  
 💻 Passionate about technology, networking, and software development  
