@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a student focused on building a strong foundation in **computer networks and programming**.  
 I enjoy creating web projects, solving problems, and continuously learning new technologies.
@@ -30,7 +30,7 @@ I'm always looking for opportunities to grow, practice, and turn ideas into real
 
 ---
 
-## 📌 Goals
+##  Goals
 
 - Improve my web development skills  
 - Build more projects using JavaScript and Python  
