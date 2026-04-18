@@ -1,9 +1,9 @@
 
 # Hi there!  I'm Camila
 
-🎓 Computer Networks student at **IFRN (Federal Institute of Rio Grande do Norte)**  
-💻 Passionate about technology, networking, and software development  
-📚 Currently learning and improving my skills in:
+ Computer Networks student at **IFRN (Federal Institute of Rio Grande do Norte)**  
+ Passionate about technology, networking, and software development  
+ Currently learning and improving my skills in:
 
 - 🌐 HTML  
 - 🎨 CSS  
@@ -21,7 +21,7 @@ I'm always looking for opportunities to grow, practice, and turn ideas into real
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 - Front-end: **HTML, CSS, JavaScript**
 - Programming: **Python**
@@ -38,7 +38,7 @@ I'm always looking for opportunities to grow, practice, and turn ideas into real
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - GitHub: [@camilatrindad](https://github.com/camilatrindad)
 
